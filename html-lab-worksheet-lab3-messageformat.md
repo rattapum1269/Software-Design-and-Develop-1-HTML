@@ -30,10 +30,31 @@
    - เส้นคั่นระหว่างเนื้อหา
 ### บันทึกผลการทดลอง
 - รหัสเอกสาร HTML ที่เขียน:
-```html
+```ME.html
 [วางโค้ด HTML ที่นี่]
-```
+```<!DOCTYPE html>
+<html>
+<head>
+    <title> แนะนำตัวเอง</title>
+</head>
+<body>
+
+    <h1>Welcome to Introduce Rattapum Sornkeaw </h1>
+    <hr>
+    <h2>ข้อมูลส่วนตัว</h2>
+    <hr>
+    <pre>
+    <p><strong>ชื่อ-นามสกุล :</strong>นาย รัฐภูมิ สอนเขียว</p>
+    <p><strong>ประวัติการศึกษา</strong><br><em>ประถมศึกษา:โรงเรียนหัวหมากวิทยานุสรณ์</em><br><em>มัธยมศึกษา : โรงเรียนนวมินทราชินูทิศเตรียมอุดมศึกาาน้อมเกล้า</em><br>และกำลังศึกษาอยู่ที่ KMITL</p> 
+    <p><strong>งานอดิเรก :</strong>เล่นเกม,ดูหนัง,ฟังเพลง</p>
+    <p><strong>เป้าหมายในอนาคต :</strong>การได้เป็นครูที่ดี</p>
+    </pre>
+
+</body>
+</html>
+
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
 
+pic![ME](https://github.com/user-attachments/assets/a743536c-f62b-455a-ac8e-8f5f8cc046f1)
 
